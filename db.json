@@ -42,6 +42,70 @@
       "myid": "135",
       "answer": 8,
       "text": 35
+    },
+    {
+      "name": "question145",
+      "complexity": 1,
+      "education_level": "базовый",
+      "task_level": "базовый",
+      "answer_type": "развернутый",
+      "task_group": 1,
+      "task_type": "B",
+      "id": "efgehifbn234",
+      "myid": "145",
+      "answer": 15,
+      "text": {
+        "h1": "5.4. Треугольники. Медиана, высота и биссектриса треугольника",
+        "p": [
+          {
+            "@style": "background-color: #D7FFE2; padding: 5;",
+            "strong": "Медиана треугольника",
+            "#text": "— это отрезок, соединяющий вершину треугольника с серединой противолежащей стороны."
+          },
+          "Точка $ M $ — середина стороны $ АС $ треугольника $ ABC $. $ BM $ — медиана, проведенная из вершины $ B $.",
+          {
+            "@style": "background-color: #D7FFE2; padding: 5;",
+            "strong": "Высота треугольника",
+            "#text": "— это перпендикуляр, проведенный из вершины треугольника к прямой, содержащей противоположную сторону треугольника."
+          },
+          "$ BH \\\\bot AC $, $ BH $ — высота треугольника $ ABC $, проведенная из вершины $ B $.",
+          {
+            "@style": "background-color: #D7FFE2; padding: 5;",
+            "strong": "Биссектриса треугольника",
+            "#text": "— это отрезок, соединяющий вершину треугольника с точкой на противолежащей стороне и делящий внутренний угол пополам."
+          },
+          {
+            "i": "биссектриса",
+            "#text": [
+              "$ \\\\angle ABL = \\\\angle CBL $, $ BL $ —",
+              "треугольника $ ABC $, проведенная из вершины $ B $."
+            ]
+          }
+        ],
+        "center": [
+          {
+            "img": {
+              "@height": "100",
+              "@style": "align-self: center;",
+              "@src": "http://drive.google.com/uc?export=view&id=1Ui6Pq66dDZeYO5t7OwrJWmoqzHIfqRFJ"
+            }
+          },
+          {
+            "img": {
+              "@height": "100",
+              "@style": "align-self: center;",
+              "@src": "http://drive.google.com/uc?export=view&id=1VSGgOvbrX_t2TxT4Of5wkqYuYxkuEE6I"
+            }
+          },
+          {
+            "img": {
+              "@height": "100",
+              "@style": "align-self: center;",
+              "@src": "http://drive.google.com/uc?export=view&id=1zzhL0T1CZyfSsXGrIMOZWYU1TGXyoS_I"
+            }
+          }
+        ]
+      }
     }
   ]
 }
