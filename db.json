@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "posts1": [
+    {
+      "name": "question125",
+      "complexity": 4,
+      "education_level": "базовый",
+      "task_level": "базовый",
+      "answer_type": "краткий",
+      "task_group": 1,
+      "task_type": "A",
+      "id": "1nfd33566gfd",
+      "myid": "125",
+      "answer": 1,
+      "text": 25
+    },
+    {
+      "name": "question135",
+      "complexity": 2,
+      "education_level": "базовый",
+      "task_level": "продвинутый",
+      "answer_type": "краткий",
+      "task_group": 1,
+      "task_type": "A",
+      "id": "235gfrevd8",
+      "myid": "135",
+      "answer": 8,
+      "text": 35
+    }
+  ]
+}
