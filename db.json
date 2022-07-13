@@ -81,6 +81,19 @@
       "myid": "145",
       "answer": 15,
       "text": "<h1>5.112. Конус</h1> <p style='background-color: #D7FFE2; padding: 5;'><strong> <i> Конус </i> </strong> — это тело вращения, полученное в результате поворота прямоугольного треугольника вокруг одного из своих катетов на $ 360°$.</p> <p>На рисунке изображен конус, полученный вращением прямоугольного треугольника $ ABC $ вокруг катета $ BC $. Точка $ B $ — вершина конуса.</p><br/><div style=\"text-align: center;\"><img height=170\" src=\"http://drive.google.com/uc?export=view&id=1xeI_YVKv6uPjHpTbj7yJKXdKxGpIrVKa\"/> </div><br/><p>Поверхность конуса состоит из <i> боковой поверхности </i> (образованной вращением гипотенузы $ AB $ прямоугольного треугольника $ ABC $) и круга — <i> основания конуса </i> (образованного вращением катета $ AC$).</p>"
+    },
+    {
+      "name": "question175",
+      "complexity": 1,
+      "education_level": "базовый",
+      "task_level": "базовый",
+      "answer_type": "развернутый",
+      "task_group": 1,
+      "task_type": "B",
+      "id": "efgehifbn234",
+      "myid": "145",
+      "answer": 15,
+      "text": "<h1>5.4. Треугольники. Медиана, высота и биссектриса треугольника </h1><p style='background-color: #D7FFE2; padding: 5;'><strong> Медиана треугольника </strong> — это отрезок, соединяющий вершину треугольника с серединой противолежащей стороны.</p><p>Точка $ M $ — середина стороны $ АС $ треугольника $ ABC $. $ BM $ — медиана, проведенная из вершины $ B $.</p><center><img height=\"100\" style=\"align-self: center;\" src=\"http://drive.google.com/uc?export=view&id=1Ui6Pq66dDZeYO5t7OwrJWmoqzHIfqRFJ\"/></center><p style='background-color: #D7FFE2; padding: 5;'><strong> Высота треугольника </strong> — это перпендикуляр, проведенный из вершины треугольника к прямой, содержащей противоположную сторону треугольника.</p><p>  $ BH \\bot AC $, $ BH $ — высота треугольника $ ABC $, проведенная из вершины $ B $.</p><center><img height=\"100\" style=\"align-self: center;\" src=\"http://drive.google.com/uc?export=view&id=1VSGgOvbrX_t2TxT4Of5wkqYuYxkuEE6I\" /></center><p style='background-color: #D7FFE2; padding: 5;'><strong> Биссектриса треугольника </strong> — это отрезок, соединяющий вершину треугольника с точкой на противолежащей стороне и делящий внутренний угол пополам.</p><p>  $ \\angle ABL = \\angle CBL $, $ BL $ — <i> биссектриса </i> треугольника $ ABC $, проведенная из вершины $ B $.</p><center><img height=\"100\" style=\"align-self: center;\" src=\"http://drive.google.com/uc?export=view&id=1zzhL0T1CZyfSsXGrIMOZWYU1TGXyoS_I\" /></center>"
     }
   ]
 }
