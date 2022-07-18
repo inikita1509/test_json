@@ -106,14 +106,18 @@
       "myid": "efgehifbn234",
       "id": 7,
       "answer": 15,
-      "text": "&lt;h1&gt;5.4.test Треугольники. Медиана, высота и биссектриса треугольника&lt;/h1&gt;&lt;p style=&quot;background-color:#D7FFE2;padding:5&quot;&gt;&lt;strong&gt;Медиана треугольника&lt;/strong&gt; &mdash; это отрезок, соединяющий вершину треугольника с серединой противолежащей стороны.&lt;/p&gt;&lt;p&gt;Точка $ M $ &mdash; середина стороны $ АС $ треугольника $ ABC $. $ BM $ &mdash; медиана, проведенная из вершины $ B $.&lt;/p&gt;&lt;center&gt;&lt;img height=&quot;100&quot; style=&quot;align-self:center&quot; src=&quot;http://drive.google.com/uc?export=view&amp;id=1Ui6Pq66dDZeYO5t7OwrJWmoqzHIfqRFJ&quot;&gt;&lt;/center&gt;&lt;p style=&quot;background-color:#D7FFE2;padding:5&quot;&gt;&lt;strong&gt;Высота треугольника&lt;/strong&gt; &mdash; это перпендикуляр, проведенный из вершины треугольника к прямой, содержащей противоположную сторону треугольника.&lt;/p&gt;&lt;p&gt;$ BH \\bot AC $, $ BH $ &mdash; высота треугольника $ ABC $, проведенная из вершины $ B $.&lt;/p&gt;&lt;center&gt;&lt;img height=&quot;100&quot; style=&quot;align-self:center&quot; src=&quot;http://drive.google.com/uc?export=view&amp;id=1VSGgOvbrX_t2TxT4Of5wkqYuYxkuEE6I&quot;&gt;&lt;/center&gt;&lt;p style=&quot;background-color:#D7FFE2;padding:5&quot;&gt;&lt;strong&gt;Биссектриса треугольника&lt;/strong&gt; &mdash; это отрезок, соединяющий вершину треугольника с точкой на противолежащей стороне и делящий внутренний угол пополам.&lt;/p&gt;&lt;p&gt;$ \\angle ABL = \\angle CBL $, $ BL $ &mdash; &lt;i&gt;биссектриса&lt;/i&gt; треугольника $ ABC $, проведенная из вершины $ B $.&lt;/p&gt;&lt;center&gt;&lt;img height=&quot;100&quot; style=&quot;align-self:center&quot; src=&quot;http://drive.google.com/uc?export=view&amp;id=1zzhL0T1CZyfSsXGrIMOZWYU1TGXyoS_I&quot;&gt;&lt;/center&gt;"
+      "text": "<h1>5.4. Треугольники. Медиана, высота и биссектриса треугольника </h1> <p style='background-color: #D7FFE2;padding: 5;'><strong> Медиана треугольника </strong> — это отрезок, соединяющий вершину треугольника с серединой противолежащей стороны.</p> <p>Точка $ M $ — середина стороны $ АС $ треугольника $ ABC $. $ BM $ — медиана, проведенная из вершины $ B $.</p> <center> <img height='100' style='align-self: center;' src='http://drive.google.com/uc?export=view&id=1Ui6Pq66dDZeYO5t7OwrJWmoqzHIfqRFJ' /> </center> <p style='background-color: #D7FFE2;padding: 5;'><strong> Высота треугольника </strong> — это перпендикуляр, проведенный из вершины треугольника к прямой, содержащей противоположную сторону треугольника.</p> <p> $ BH \\bot AC $, $ BH $ — высота треугольника $ ABC $, проведенная из вершины $ B $.</p> <center> <img height='100' style='align-self: center;' src='http://drive.google.com/uc?export=view&id=1VSGgOvbrX_t2TxT4Of5wkqYuYxkuEE6I' /> </center> <p style='background-color: #D7FFE2;padding: 5;'><strong> Биссектриса треугольника </strong> — это отрезок, соединяющий вершину треугольника с точкой на противолежащей стороне и делящий внутренний угол пополам.</p> <p> $ \\angle ABL = \\angle CBL $, $ BL $ — <i> биссектриса </i> треугольника $ ABC $, проведенная из вершины $ B $.</p> <center> <img height='100' style='align-self: center;' src='http://drive.google.com/uc?export=view&id=1zzhL0T1CZyfSsXGrIMOZWYU1TGXyoS_I' /> </center>"
     }
   ],
   "pr_test": [
     {
       "id": 1,
-      "value": "Сколько будет 2+2",
-      "category": "Science: Computers",
+      "country": "rb",
+      "theor": "math1",
+      "category": "math",
+      "Level_of_study": 1,
+      "complexity": 1,
+      "question": "Сколько будет 2+2",
       "type": "multiple",
       "difficulty": "easy",
       "correctAnswer": "4",
