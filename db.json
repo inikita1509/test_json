@@ -145,5 +145,36 @@
       ],
       "correct_option": "The bat"
     }
+  ],
+  "pr_test1": [
+    {
+      "_id": "b7d88a211e65c6a034d62d7df70019bf",
+      "_rev": "5-63e9f0b5a596758eb9d8baea04dd3141",
+      "name": "question1",
+      "complexity": 2,
+      "education_level": "продвинутый",
+      "task_level": "продвинутый",
+      "answer_type": "краткий",
+      "task_group": 1,
+      "task_type": "A",
+      "myid": "135",
+      "question": "<h2> снова Какой-то вопрос?</h2>",
+      "options": ["1", "2", "3", "4"],
+      "correct_option": "3"
+    },
+    {
+      "_id": "b7d88a211e65c6a034d62d7df70019bf",
+      "_rev": "5-63e9f0b5a596758eb9d8baea04dd3141",
+      "name": "question1",
+      "complexity": 2,
+      "education_level": "продвинутый",
+      "task_level": "продвинутый",
+      "answer_type": "краткий",
+      "task_group": 1,
+      "task_type": "B",
+      "myid": "135",
+      "question": "<h2> снова Какой-то вопрос?</h2>",
+      "correct_option": "35"
+    }
   ]
 }
